@@ -1,0 +1,12 @@
+{
+  "_comment": "Self-rated, 0-100. Edit values and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "E-commerce Platforms",  "value": 95 },
+    { "label": "Shopify / Liquid",      "value": 92 },
+    { "label": "WordPress / WooCommerce","value": 90 },
+    { "label": "Data Pipelines",        "value": 85 },
+    { "label": "API Integrations",      "value": 90 },
+    { "label": "React / Next.js",       "value": 85 },
+    { "label": "Node.js",               "value": 82 }
+  ]
+}

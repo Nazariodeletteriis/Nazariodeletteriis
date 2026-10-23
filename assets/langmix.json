@@ -1,0 +1,12 @@
+{
+  "_comment": "Self-rated, 0-100. Languages and data layer.",
+  "axes": [
+    { "label": "PHP",         "value": 92 },
+    { "label": "JavaScript",  "value": 90 },
+    { "label": "TypeScript",  "value": 82 },
+    { "label": "Python",      "value": 80 },
+    { "label": "SQL",         "value": 84 },
+    { "label": "Liquid",      "value": 90 },
+    { "label": "Rust",        "value": 40 }
+  ]
+}

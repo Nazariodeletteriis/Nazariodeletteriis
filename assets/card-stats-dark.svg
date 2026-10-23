@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 214" width="490" height="214" font-family="ui-sans-serif,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<rect x=".5" y=".5" width="489" height="213" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="20" y="34" font-size="16" font-weight="600" fill="#34d399">Nazario de Letteriis · GitHub</text>
+<text x="20" y="84" font-size="26" font-weight="700" fill="#f0f6fc">5</text>
+<text x="20" y="104" font-size="12" fill="#8b949e">Public repos</text>
+<text x="170" y="84" font-size="26" font-weight="700" fill="#f0f6fc">0</text>
+<text x="170" y="104" font-size="12" fill="#8b949e">Stars earned</text>
+<text x="320" y="84" font-size="26" font-weight="700" fill="#f0f6fc">0</text>
+<text x="320" y="104" font-size="12" fill="#8b949e">Followers</text>
+<text x="20" y="156" font-size="26" font-weight="700" fill="#f0f6fc">300</text>
+<text x="20" y="176" font-size="12" fill="#8b949e">Contributions, last year</text>
+<text x="170" y="156" font-size="26" font-weight="700" fill="#f0f6fc">1</text>
+<text x="170" y="176" font-size="12" fill="#8b949e">Current streak (days)</text>
+<text x="320" y="156" font-size="26" font-weight="700" fill="#f0f6fc">3</text>
+<text x="320" y="176" font-size="12" fill="#8b949e">Longest streak (days)</text>
+</svg>
