@@ -47,6 +47,26 @@ nobody is watching.
 
 <div align="center">
 
+## Take a break
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nazariodeletteriis/Nazariodeletteriis/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nazariodeletteriis/Nazariodeletteriis/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/Nazariodeletteriis/Nazariodeletteriis/output/pacman-contribution-graph-dark.svg" alt="Pac-Man eating my contribution graph">
+</picture>
+
+<br>
+
+<a href="https://nazariodeletteriis.github.io/Nazariodeletteriis/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20PAC--MAN-0d1117?style=for-the-badge&logoColor=34d399&labelColor=0d1117&color=34d399" alt="Play Pac-Man"></a>
+
+<sub>GitHub can't run games inside a README, so the real one opens in a new page. Keyboard or swipe.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
 ## Signals
 
 <table>
