@@ -7,6 +7,6 @@
     { "label": "Python",      "value": 80 },
     { "label": "SQL",         "value": 84 },
     { "label": "Liquid",      "value": 90 },
-    { "label": "Rust",        "value": 40 }
+    { "label": "Rust",        "value": 55 }
   ]
 }
